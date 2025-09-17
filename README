@@ -1,0 +1,15 @@
+Disponível em: https://email-response-llm.vercel.app/
+
+## Variáveis de ambiente necessárias
+
+### Backend
+
+- `HF_TOKEN`: Token válido do Hugging Face
+
+### Frontend
+
+Na pasta `frontend`, é necessária o arquivo `.env` com a flag `VITE_API_URL`, sendo a URL apontando para o backend.
+
+## Instrução de Uso
+
+É possível subir a aplicação utilizando o comando `docker compose up`.
