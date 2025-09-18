@@ -8,7 +8,7 @@ Disponível em: https://email-response-llm.vercel.app/
 
 ### Frontend
 
-Na pasta `frontend`, é necessária o arquivo `.env` com a flag `VITE_API_URL`, sendo a URL apontando para o backend.
+Na pasta `frontend`, é necessário o arquivo `.env` com a flag `VITE_API_URL`, sendo a URL apontando para o backend.
 
 ## Instrução de Uso
 
